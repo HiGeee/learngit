@@ -1,3 +1,8 @@
 CHANGE  NOTHING 
-	git  diff 
-
+	git  diff  readme.txt   --  比较不同
+	git  reflog             --  查看版本日志
+	git  status             --  查看状态
+	git  add                --  添加文件
+	git  commit -m “remark”	--  添加备注
+	git  reset --hard HEAD^ --  版本回退
+	
